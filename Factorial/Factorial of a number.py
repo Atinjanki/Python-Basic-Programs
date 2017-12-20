@@ -3,7 +3,7 @@ import math
 
 #take the  umber as input from user
 print("Enter a number for finding its factorial: ")
-value1 = int(input())
+value = int(input())
 
 #calulate factorial
 def fact(k):
@@ -16,4 +16,4 @@ def fact(k):
         print("factorial of ", value, " is: ", factorial)
     else:
         print("Cannot calculate factorial of a negative number")
-fact(value1)
+fact(value)
