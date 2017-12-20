@@ -5,7 +5,6 @@ from collections import defaultdict
 #List for iterating number of people and list for their probability
 no_of_people = []
 probability = []
-x = []
 birth_days = []
 
 #input number of persons
