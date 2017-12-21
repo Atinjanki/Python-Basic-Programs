@@ -1,0 +1,2 @@
+This program accepts a list of numbers from the users and identifies prime numbers from this list.
+Here it displays 2 lists, one with prime numbers and the other with non-prime.
