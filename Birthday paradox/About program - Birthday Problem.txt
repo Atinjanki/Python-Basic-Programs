@@ -1,0 +1,11 @@
+Birthday problem aka Birthday paradox in probability theory is the probability that, in a set of n randomly chosen 
+people some pair of them will have birthdays as similar dates. The probability reaches 50% when the number of people 
+are 23 and reaches almost 100% when the number of people are 70.
+
+Logic:
+1. Radomly choose n number of birthdays from a year (n being number of people, and number of days per year can be set to 365/366)
+2. Calculate how many similar days have been repeated
+3. Calculate the probability of having matching birthdays.
+
+*You can find probability calculation formula on wikepedia
+https://en.wikipedia.org/wiki/Birthday_problem
