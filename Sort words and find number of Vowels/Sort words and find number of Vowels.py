@@ -7,8 +7,8 @@ words.sort()
 
 #Display Sorted words
 print("Sorted words are:")
-for word in words:
-    print(word)
+for each_word in words:
+    print(each_word)
 
 #Find vowels
 vowels = 'aeiou'
