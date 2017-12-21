@@ -1,0 +1,7 @@
+This program takes as input a string from user and identifies whether the string is palindrome or not.
+*Case sensitivity is ignored.
+
+Logic:
+1. Takes input string.
+2. Reverses the string.
+3. Checks if the original string and the reversed one are equal.
