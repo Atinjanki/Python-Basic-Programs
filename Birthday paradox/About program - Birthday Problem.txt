@@ -1,4 +1,4 @@
-Birthday problem aka Birthday paradoy in probability theory is the probability that, in a set of n randomly chosen 
+Birthday problem aka Birthday paradox in probability theory is the probability that, in a set of n randomly chosen 
 people some pair of them will have birthdays as similar dates. The probability reaches 50% when the number of people 
 are 23 and reaches almost 100% when the number of people are 70.
 
