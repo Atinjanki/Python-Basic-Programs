@@ -1,0 +1,11 @@
+This program sorts the words in alphabetical order and also finds the number of vowels in the input string.
+
+Logic for sorting:
+1. First the input string is splitted
+2. There is inbuilt option in python to sort (used here)
+3. Run a loop and display all the sorted words
+
+Logic for finding vowels:
+1. Case sensitivity removed from input string
+2. Each vowel is tored in a dictionary using '.fromkeys()'
+3. Each vowel is counted in the input string and result is displayed
