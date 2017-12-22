@@ -11,6 +11,6 @@ while temp > 0:
     temp //= 10     #Floor division
 
 if int_number == sum:
-    print("Entered number is an Armtrong number")
+    print("Entered number is an Armtrong number.")
 else:
-    print("Entered number is not an Armtrong number")
+    print("Entered number is not an Armtrong number.")
