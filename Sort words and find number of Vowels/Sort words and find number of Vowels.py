@@ -1,15 +1,16 @@
 #Input from user
 input_string = input("Enter the string:")
 
+#================================================
 #Split words and sort them
 words = input_string.split()
 words.sort()
 
 #Display Sorted words
 print("Sorted words are:")
-for each_word in words:
-    print(each_word)
-
+for i, each_word in zip(range(len(words)),words):
+    print(i,".",each_word)
+#================================================
 #Find vowels
 vowels = 'aeiou'
 
