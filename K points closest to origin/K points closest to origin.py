@@ -1,3 +1,5 @@
+#K points close to origin
+
 import matplotlib.pyplot as plt
 from random import randint
 from heapq import heappush, heappop, heapify, heappushpop
