@@ -1,6 +1,5 @@
 #Take as input points from user and plot those points on graph
 
-from random import randint
 import numpy as np
 import matplotlib.pyplot as plt
 
