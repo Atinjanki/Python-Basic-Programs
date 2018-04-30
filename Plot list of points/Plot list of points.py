@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 coordinates=[]
 temp=[]
-points = int(input("Enter No Of Coordinates: "))
+points = int(input("Enter number of points: "))
 
 #Take input the co-ordinates of points and store it in array
 for i in range(0,points):
