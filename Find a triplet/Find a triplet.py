@@ -10,8 +10,9 @@ class triplet:
                 for k in range(j+1, n_elements):
                     total = x[i] + x[j] + x[k]
                     if total == sum:
-                        print('Triplets are: ',x[i],', ',x[j],' and ',x[k])
-        print('No triplets found in the given array :(')
+                        return print('Triplets are: ',x[i],', ',x[j],' and ',x[k])
+        return print('No triplets found')
+
 
 no_of_elements = int(input('How many numbers in an array? '))
 print('Enter values one by one')
