@@ -1,7 +1,7 @@
 #Find factorial of a given number
 import math
 
-#take the  umber as input from user
+#take a number as input from user
 print("Enter a number for finding its factorial: ")
 value = int(input())
 
