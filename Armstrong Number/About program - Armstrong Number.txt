@@ -5,3 +5,5 @@ Logic for program:
 2. Multiplies the number to itself with the length of number
 3. Adds up all the numbers after step 2
 3. Checks if the original number is equal to the sum
+
+testing........
